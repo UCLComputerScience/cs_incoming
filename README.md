@@ -6,7 +6,7 @@ The notebook is hosted on the Microsoft Azure cloud service at:
 
 [https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie](https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie)
 
-To use the notebook interactively and save your changes you will need to create an account on [https://notebooks.azure.com](https://notebooks.azure.com). If you do not want to create an account then you can access the notebook using [Binder](https://mybinder.org) by clicking on this URL, you will not be able to save any changes you make using this method.
+To use the notebook interactively and save your changes you will need to create an account on [https://notebooks.azure.com](https://notebooks.azure.com). If you do not want to create an account then you can access the notebook using [Binder](https://mybinder.org) by clicking on [this URL: https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb), you will not be able to save any changes you make using this method.
 
 To use the notebook on Microsoft Azure Notebooks, first you should 'clone' the notebook. To do this, click on the open the notebook you should see a button in the top left corner of the screen with the work 'clone'. Press this to create a copy (if you are not already logged in to Microsoft Azure Notebooks you will be promted to create an account).
 
