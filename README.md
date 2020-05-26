@@ -27,3 +27,5 @@ The introductory video in the notebook is a TED talk given by Hans Rosling calle
 The code examples in the notebook make use of the [Plotly Express](https://plotly.com/python/plotly-express/) library. This library provides direct access to the Gapminder data set. There are also examples for the use of the Gapminder data in their help and documentation.
 
 The Gapminder data can also be accessed freely at [Gapminder.org](https://www.gapminder.org/data/).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb)
