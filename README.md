@@ -5,7 +5,7 @@ This Jupyter notebook provides a self-study introduction to visualising data. It
 This project uses a cloud service Jupyter notebook. When you open one of the following links, the cloud service creates a virtual coding environment in the cloud for you to use so you don't need to install anything on your machine. It will take a few minutes for this 'environment' to be created, once it is ready you will see a page that looks a little like this one.
 
 ### Using the notebook without creating an account using Binder cloud service (no ability to save changes)
-If you do not want to create an account then you can access the notebook using [Binder](https://mybinder.org) by clicking on [https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb). You will not be able to save any changes you make using this method.
+If you do not want to create an account then you can access the notebook using [Binder](https://mybinder.org) at [https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb). You will not be able to save any changes you make using this method.
 
 ### Using the notebook using Microsoft Azure Notebook cloud service (ability to save changes)
 To use the notebook interactively and save your changes create an account on [https://notebooks.azure.com](https://notebooks.azure.com). 
