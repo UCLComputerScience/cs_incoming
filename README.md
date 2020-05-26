@@ -2,17 +2,23 @@
 This Jupyter notebook provides a self-study introduction to visualising data. It has been created for the induction programme for new undergraduate computer science students at UCL. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
 
 ## Getting started
-The notebook is hosted on the Microsoft Azure cloud service at:
+This project uses a cloud service Jupyter notebook. When you open one of the following links, the cloud service creates a virtual coding environment in the cloud for you to use so you don't need to install anything on your machine. It will take a few minutes for this 'environment' to be created, once it is ready you will see a page that looks a little like this one.
 
+### Using the notebook without creating an account using Binder cloud service (no ability to save changes)
+If you do not want to create an account then you can access the notebook using [Binder](https://mybinder.org) by clicking on [https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb). You will not be able to save any changes you make using this method.
+
+### Using the notebook using Microsoft Azure Notebook cloud service (ability to save changes)
+To use the notebook interactively and save your changes create an account on [https://notebooks.azure.com](https://notebooks.azure.com). 
+
+Access the notebook hosted on the Microsoft Azure cloud service at:
 [https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie](https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie)
 
-To use the notebook interactively and save your changes you will need to create an account on [https://notebooks.azure.com](https://notebooks.azure.com). If you do not want to create an account then you can access the notebook using [Binder](https://mybinder.org) by clicking on [https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb), you will not be able to save any changes you make using this method.
-
-To use the notebook on Microsoft Azure Notebooks, first you should 'clone' the notebook. To do this, click on the open the notebook you should see a button in the top left corner of the screen with the work 'clone'. Press this to create a copy (if you are not already logged in to Microsoft Azure Notebooks you will be promted to create an account).
+First you should 'clone' the notebook. To do this, after clicking the aboce link, click on the link to the notebook ('incoming_students_data_visualisation.ipynb'). You should see a button in the top left corner of the screen with the word 'clone'. Press this to create a copy (if you are not already logged in to Microsoft Azure Notebooks and you didn't already create an account you will be prompted to create an account now). You may need to wait a few minutes during which a copy of the notebook is made and the 'environment' is created for you.
 
 Once you have the notebook open, you should follow the instructions in the notebook itself.
 
-If you have any problems getting to this point, please don't hesitate to ask for help by posting a message on Moodle at {TODO: Add a link to an appropriate discussion forum}.
+## Getting help
+Ask for help by posting a message on Moodle at {TODO: Add a link to an appropriate discussion forum}.
 
 ## Feedback and corrections
 This notebook is maintained at [https://github.com/nicholsons/cs_incoming_datavis](https://github.com/nicholsons/cs_incoming_datavis). 
