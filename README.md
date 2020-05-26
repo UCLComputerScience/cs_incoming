@@ -4,18 +4,18 @@ This Jupyter notebook provides a self-study introduction to visualising data. It
 ## Getting started
 This project uses a cloud service Jupyter notebook. When you open one of the following links, the cloud service creates a virtual coding environment in the cloud for you to use so you don't need to install anything on your machine. It will take a few minutes for this 'environment' to be created, once it is ready you will see a page that looks a little like this one.
 
-### Using the notebook without creating an account using Binder cloud service (no ability to save changes)
+Once you have the notebook open using one of the following methods, you should follow the instructions in the notebook itself.
+
+### 1. Using the notebook without creating an account using Binder cloud service (no ability to save changes)
 If you do not want to create an account then you can access the notebook using [Binder](https://mybinder.org) at [https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb). You will not be able to save any changes you make using this method.
 
-### Using the notebook using Microsoft Azure Notebook cloud service (ability to save changes)
+### 2. Using the notebook using Microsoft Azure Notebook cloud service (ability to save changes)
 To use the notebook interactively and save your changes create an account on [https://notebooks.azure.com](https://notebooks.azure.com). 
 
 Access the notebook hosted on the Microsoft Azure cloud service at:
 [https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie](https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie)
 
 First you should 'clone' the notebook. To do this, after clicking the aboce link, click on the link to the notebook ('incoming_students_data_visualisation.ipynb'). You should see a button in the top left corner of the screen with the word 'clone'. Press this to create a copy (if you are not already logged in to Microsoft Azure Notebooks and you didn't already create an account you will be prompted to create an account now). You may need to wait a few minutes during which a copy of the notebook is made and the 'environment' is created for you.
-
-Once you have the notebook open, you should follow the instructions in the notebook itself.
 
 ## Getting help
 Ask for help by posting a message on Moodle at {TODO: Add a link to an appropriate discussion forum}.
