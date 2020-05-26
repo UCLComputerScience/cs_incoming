@@ -19,9 +19,11 @@ This notebook is maintained at [https://github.com/nicholsons/cs_incoming_datavi
 
 Please report suggestions or errors at [https://github.com/nicholsons/cs_incoming_datavis/issues](https://github.com/nicholsons/cs_incoming_datavis/issues).
 
-This notebook was developed by Sarah Sanders (sarah.sanders@ucl.ac.uk).
+This notebook was developed by [Sarah Sanders](mailto:sarah.sanders@ucl.ac.uk).
 
 ## Acknowledgements
-The data for this notebook is from [Gapminder.org](https://www.gapminder.org/data/)
+The introductory video is a TED talk given by Hans Rosling called ['The best stats you have ever seen'](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare).
 
-The examples make use of the xx library. There are examples for the use of the Gapminder data in their help and documentation.
+The code examples in the notebook make use of the [Plotly Express](https://plotly.com/python/plotly-express/) library. This library provides direct access to the Gapminder data set. There are also examples for the use of the Gapminder data in their help and documentation.
+
+The Gapminder data can also be accessed freely at [Gapminder.org](https://www.gapminder.org/data/).
