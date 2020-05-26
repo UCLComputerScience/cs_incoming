@@ -1,5 +1,5 @@
 # The power of visualising data
-This Jupyter notebook provides a self-study introduction to visualising data. It has been created for the induction programme for new undergraduate computer science students at UCL. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real life'.
+This Jupyter notebook provides a self-study introduction to visualising data. It has been created for the induction programme for new undergraduate computer science students at UCL. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
 
 ## Getting started
 The notebook is hosted on the Microsoft Azure cloud service at:
