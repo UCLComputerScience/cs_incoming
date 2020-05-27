@@ -1,5 +1,5 @@
 # The power of visualising data
-This Jupyter notebook provides a self-study introduction to visualising data. It has been created for the induction programme for new undergraduate computer science students at UCL. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
+This project provides a self-study introduction to visualising data. It has been created for the induction programme for new undergraduate computer science students at UCL. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
 
 ## Getting started
 This project uses a cloud service Jupyter notebook. When you open one of the following links, the cloud service creates a virtual coding environment in the cloud for you to use so you don't need to install anything on your machine. It will take a few minutes for this 'environment' to be created, once it is ready you will see a page that looks a little like this one.
