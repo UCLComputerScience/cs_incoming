@@ -23,7 +23,7 @@ You will need to investigate options for doing this yourself depending on your o
 You will need to install plotly and pandas in your local environment which you should be able to do with pip, e.g. 
 ```python 
 pip install pandas
-pip install plotly
+pip install plotly==4.8.0
 ```
 
 ## Getting help
