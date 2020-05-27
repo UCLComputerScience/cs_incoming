@@ -21,8 +21,8 @@ First you should 'clone' the notebook. To do this, after clicking the aboce link
 If you already have a locally installed Python development environment and code editor then you may be able to work out how to use Jupyter notebooks on your own machine. For example, if you are using [Visual Studio code, you can work with Jupyter notebooks in the IDE](https://code.visualstudio.com/docs/python/jupyter-support). 
 You will need to investigate options for doing this yourself depending on your own setup. 
 You will need to install plotly and pandas in your local environment which you should be able to do with pip, e.g. 
-```python 
-pip install pandas
+```python
+pip install pandas==1.0.3
 pip install plotly==4.8.0
 ```
 
