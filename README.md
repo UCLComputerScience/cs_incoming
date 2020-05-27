@@ -6,10 +6,10 @@ This project uses a cloud service Jupyter notebook. When you open one of the fol
 
 Once you have the notebook open using one of the following methods, you should follow the instructions in the notebook itself.
 
-### 1. Using the notebook without creating an account using Binder cloud service (no ability to save changes)
+### 1. Using the notebook in the using Binder cloud service (no account required, no ability to save changes)
 If you do not want to create an account then you can access the notebook using [Binder](https://mybinder.org) at [https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb). You will not be able to save any changes you make using this method.
 
-### 2. Using the notebook using Microsoft Azure Notebook cloud service (ability to save changes)
+### 2. Using the notebook in the Microsoft Azure Notebook cloud service (free account required, ability to save changes)
 To use the notebook interactively and save your changes create an account on [https://notebooks.azure.com](https://notebooks.azure.com). 
 
 Access the notebook hosted on the Microsoft Azure cloud service at:
