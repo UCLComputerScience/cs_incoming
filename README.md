@@ -43,3 +43,9 @@ The code examples in the notebook make use of the [Plotly Express](https://plotl
 
 The Gapminder data can also be accessed freely at [Gapminder.org](https://www.gapminder.org/data/). The 'math_achievement_8th_grade.csv' file in this repository was downloaded from Gapminder.
 
+## Data protection and privacy
+TODO: Add statement as to the extent to which MS Azure Notebooks and Binder comply with UCL data. Warn students not to put any personal data in their notebook.
+
+[Information on privacy for the Binder service can be found here](https://mybinder.readthedocs.io/en/latest/faq.html).
+
+[Information on privacy for the Microsoft Azure Notebooks service can be found here](https://privacy.microsoft.com/en-gb/privacystatement).
