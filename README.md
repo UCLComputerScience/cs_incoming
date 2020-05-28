@@ -17,8 +17,8 @@ Access the notebook hosted on the Microsoft Azure cloud service at:
 
 First you should 'clone' the notebook. To do this, after clicking the aboce link, click on the link to the notebook ('incoming_students_data_visualisation.ipynb'). You should see a button in the top left corner of the screen with the word 'clone'. Press this to create a copy (if you are not already logged in to Microsoft Azure Notebooks and you didn't already create an account you will be prompted to create an account now). You may need to wait a few minutes during which a copy of the notebook is made and the 'environment' is created for you.
 
-### 3. Using a locally installed Python environment
-If you already have a locally installed Python development environment and code editor then you may be able to work out how to use Jupyter notebooks on your own machine. For example, if you are using [Visual Studio code, you can work with Jupyter notebooks in the IDE](https://code.visualstudio.com/docs/python/jupyter-support). 
+### 3. Using a locally installed Python Jupyter notebook environment
+If you already have a locally installed Python development environment and code editor then you may be able to work out how to use Jupyter notebooks on your own machine. For example, if you are using [Visual Studio Code, you can work with Jupyter notebooks in the IDE](https://code.visualstudio.com/docs/python/jupyter-support). 
 You will need to investigate options for doing this yourself depending on your own setup. 
 You will need to install plotly and pandas in your local environment which you should be able to do with pip, e.g. 
 ```python
