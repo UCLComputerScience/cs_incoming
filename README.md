@@ -31,7 +31,7 @@ pip install plotly==4.8.0
 ```
 
 ## Getting help
-Ask for help by posting a message on Moodle at {TODO: Add a link to an appropriate discussion forum}.
+Ask for help by posting a message in the [Q&A forum on UCL Extend](https://extend.ucl.ac.uk/mod/forum/view.php?id=44916).
 
 ## Feedback and corrections
 This notebook is maintained at [https://github.com/nicholsons/cs_incoming_datavis](https://github.com/nicholsons/cs_incoming_datavis) by [Sarah Sanders](mailto:sarah.sanders@ucl.ac.uk).
