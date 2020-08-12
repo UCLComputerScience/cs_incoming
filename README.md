@@ -15,7 +15,7 @@ You will be able to make changes to the code during your Binder sessions and see
 To use the notebook interactively and save your changes, create an account on [https://notebooks.azure.com](https://notebooks.azure.com). 
 
 Access the notebook hosted on the Microsoft Azure cloud service at:
-[https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie](https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie)
+[https://notebooks.azure.com/snicholson/projects/uclcs-ugy1-summerwelcome](https://notebooks.azure.com/snicholson/projects/uclcs-ugy1-summerwelcome)
 
 First you should 'clone' the notebook. To do this, after clicking the above link, click on the link to the notebook ('incoming_students_data_visualisation.ipynb'). You should see a button towards the top of the screen with the word 'clone'. Press this to create a copy. If you are not already logged in to Microsoft Azure Notebooks and you didn't already create an account, then you will be prompted to create an account now. You may need to wait a few minutes during which a copy of the notebook is made and the 'environment' is created for you. This process may be quite quick and it may not be obvious that the clone has completed, when it has finished you should see a message near the top of the screen that says '```Cloned from https://github.com/nicholsons/cs_incoming_datavis'```.
 
